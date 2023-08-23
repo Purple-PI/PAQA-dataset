@@ -1,2 +1,2 @@
 # AMBINQ-CQ
-Dataset of grounded clarifying question for ambiguous questions
+Dataset of grounded clarifying questions for ambiguous questions
