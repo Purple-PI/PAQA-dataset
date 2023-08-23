@@ -1,4 +1,4 @@
-# AMBIGNQ-CQ Repository
+# AMBIGNQ-CQ
 
  A proactive conversational Language Model (LLM) is essential for maintaining natural conversations and ensuring answers align with user intent. By asking clarifying questions, the LLM bridges gaps in understanding ambiguous queries, leading to more accurate responses.
  
