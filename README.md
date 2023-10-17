@@ -25,6 +25,7 @@ Each example in the dataset is associated with multiple pairs of plausible inter
 
 Furthermore, the original dataset also provides evidence pages (Wikipedia pages that annotators used to derive the answers).
 
+![Insert Image](images/table_stat.png)
 ---
 
 
@@ -79,8 +80,7 @@ We considered semi-oracle evidence, available in AmbigQA, split into 100-words p
 
 
 ## Citation
-
-If you use the **AMBIGNQ-CQ** dataset in your research, please consider citing the original papers for **AmbigNQ** (Min et al., 2020) and **NQ-open** (Kwiatkowski et al., 2019).
+If you use the **AMBIGNQ-CQ** dataset in your research, please consider citing this paper as well as the original papers for **AmbigNQ** (Min et al., 2020).
 
 
 
