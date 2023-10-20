@@ -25,7 +25,7 @@ Furthermore, the original dataset also provides evidence pages (Wikipedia pages 
 ## Clarifying Question Generation
 To construct the **PAQA** dataset, we leveraged the power of OpenAI's Davinci model using few-shot learning examples. The model's ability to understand and generate human-like text was instrumental in creating this resource.
  We fed Disambiguated Questions from AMBIGNQ and generated clarifying questions.
-![Insert Example Image](images/gpt3.png)
+![Insert Example Image](images/paqa_dataset.png)
 
 
 ### Prompt
